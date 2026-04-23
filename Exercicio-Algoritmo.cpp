@@ -18,9 +18,9 @@ int main(){
         cout << "Digite as 3 notas do " << nome_aluno[qnt_alunos] << ": "; 
         cin >> nota1[qnt_alunos] >> nota2[qnt_alunos] >> nota3[qnt_alunos];
             
-        while (nota1[qnt_alunos] < 0 or nota1[qnt_alunos] > 10 or nota2[qnt_alunos] < 0 or nota2[qnt_alunos] > 10 or nota3[qnt_alunos] < 0 or nota3[qnt_alunos] > 10) {
+        while (nota1[qnt_alunos] < 0 || nota1[qnt_alunos] > 10 || nota2[qnt_alunos] < 0 || nota2[qnt_alunos] > 10 || nota3[qnt_alunos] < 0 || nota3[qnt_alunos] > 10) {
             
-            cout << endl << "Número Inválido! Digite notas entra 0 e 10." << endl;
+            cout << endl << "Número Inválido! Digite notas entre 0 e 10." << endl;
             cout << "Digite novamente as 3 notas do(a) " << nome_aluno[qnt_alunos] << ": ";
             cin >> nota1[qnt_alunos] >> nota2[qnt_alunos] >> nota3[qnt_alunos];
         }
