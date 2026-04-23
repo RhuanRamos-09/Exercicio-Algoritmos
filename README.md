@@ -3,13 +3,13 @@
 Repositório criado para armazenar trabalho de Ciência da Computação.
 
 # Conteúdo
-▪ Vetores
-▪ Funções
-▪ Estrutura de repetição
-▪ Estrutura condicional
+- Vetores
+- Funções
+- Estrutura de repetição
+- Estrutura condicional
 
 # Linguagem
-▪ C++
+- C++
 
 # Objetivo
 Praticar e desenvolver habilidades em lógica de programação e resolução de problemas.
